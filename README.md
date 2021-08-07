@@ -30,4 +30,4 @@ test_states.zip needs to be unzipped so that the script can make reference to th
 
 # Run Program
 1. To run model, open the notebook with Jupyter Notebook and conduct the run.
-2. The notebook can also be saved as a py file and can be run using "python test.py"
+2. The notebook can also be saved as a py file test.py and can be run using "python test.py"
